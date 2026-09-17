@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Shuxin Tang"
+title                    : "Nina Tang"
 title_separator          : "-"
-name                     : &name "Shuxin Tang"
-description              : &description "Shuxin Tang — Clinical SAS Programmer & Biostatistician"
+name                     : &name "Nina Tang"
+description              : &description "Nina Tang — Clinical SAS Programmer & Biostatistician"
 url                      : https://hydra9426lynette.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hydra9426lynette/hydra9426lynette.github.io"
@@ -23,7 +23,7 @@ repository               : "hydra9426lynette/hydra9426lynette.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Shuxin Tang"
+  name             : "Nina Tang"
   pronouns         : # example: "she/her"
   bio              : "Clinical SAS Programmer & Biostatistician — CDISC/SDTM, clinical trial reporting, R/SQL"
   location         : "Washington, DC"

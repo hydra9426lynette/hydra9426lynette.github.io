@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuxin Tang"
+title: "Nina Tang"
 author_profile: true
 redirect_from:
   - /about/
