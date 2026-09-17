@@ -2,6 +2,12 @@
 title: "High-Dimensional Genetic Inference"
 excerpt: "R-based simulations and Approximate Bayesian Computation for parameter inference in high-dimensional DNA-sequencing data."
 collection: portfolio
+skills:
+  - R
+  - Approximate Bayesian Computation
+  - Random Forests
+  - Sequential Monte Carlo
+  - Bayesian Statistics
 ---
 
 Analyzed high-dimensional DNA-sequencing data in R — quality-control assessment and visualization of sequencing

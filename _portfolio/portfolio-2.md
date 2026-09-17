@@ -2,6 +2,12 @@
 title: "Pediatric Hypotension Deterioration Modeling"
 excerpt: "R pipeline for high-frequency pediatric EHR data, engineering AHA/PALS-based hypotension features and comparing ML models for deterioration prediction."
 collection: portfolio
+skills:
+  - R
+  - Logistic Regression
+  - Penalized Regression
+  - Gradient Boosting
+  - XGBoost
 ---
 
 Built an R-based data pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data —

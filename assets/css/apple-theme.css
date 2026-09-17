@@ -58,24 +58,24 @@ body,
 
 /* ---------- Page title / hero ---------- */
 .page__title {
-  font-weight: 700 !important;
-  letter-spacing: -0.03em !important;
-  font-size: clamp(2.4rem, 6vw, 4rem) !important;
-  line-height: 1.05 !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.015em !important;
+  font-size: 1.9rem !important;
+  line-height: 1.2 !important;
   color: var(--a-text) !important;
-  margin-bottom: 0.3em !important;
+  margin-bottom: 0.4em !important;
 }
 
 .page__content {
-  font-size: 17px;
+  font-size: 15px;
   line-height: 1.6;
   color: var(--a-text);
 }
 .page__content h2 {
-  font-weight: 700;
-  letter-spacing: -0.02em;
-  font-size: 1.9rem;
-  margin-top: 2.2em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  font-size: 1.3rem;
+  margin-top: 1.8em;
 }
 .page__content p {
   color: var(--a-text);
@@ -132,27 +132,39 @@ a.btn {
 /* ---------- Portfolio / archive cards ---------- */
 .archive__item {
   background: var(--a-surface);
-  border-radius: var(--a-radius);
-  padding: 28px 30px;
-  margin-bottom: 20px;
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  border-radius: 10px;
+  padding: 18px 20px;
+  margin-bottom: 14px;
+  transition: box-shadow 0.15s ease;
   border: none !important;
 }
 .archive__item:hover {
-  transform: translateY(-3px);
-  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
 }
 .archive__item-title {
-  font-weight: 700 !important;
-  letter-spacing: -0.015em !important;
-  font-size: 1.25rem !important;
+  font-weight: 600 !important;
+  letter-spacing: -0.005em !important;
+  font-size: 0.98rem !important;
+  margin-bottom: 4px !important;
 }
 .archive__item-title a {
   color: var(--a-text) !important;
+  text-decoration: none !important;
+}
+.archive__item-title a:hover {
+  text-decoration: underline !important;
 }
 .archive__item-excerpt {
   color: var(--a-text-secondary) !important;
-  font-size: 15px;
+  font-size: 13px;
+  line-height: 1.5;
+}
+.archive__item-skills.skill-pills {
+  margin: 10px 0 0;
+}
+.archive__item-skills.skill-pills span {
+  font-size: 11px;
+  padding: 4px 10px;
 }
 
 /* ---------- Timeline (CV work experience) ---------- */
@@ -197,9 +209,9 @@ a.btn {
   margin-bottom: 4px;
 }
 .timeline-role {
-  font-size: 1.15rem;
-  font-weight: 700;
-  letter-spacing: -0.015em;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: -0.005em;
   color: var(--a-text);
   margin: 0 0 2px;
 }

@@ -2,6 +2,12 @@
 title: "PICUBE Pediatric Hypotension — Biostatistical Analysis Pipeline (R)"
 excerpt: "SAP-driven R pipeline for a pediatric ICU hypotension study — AAP percentile thresholds, PALS hypotension flagging, and 24-hour deterioration outcomes."
 collection: portfolio
+skills:
+  - R
+  - SAP-Compliant Programming
+  - Clinical Thresholds (AAP/PALS)
+  - Data Validation
+  - Cohort Derivation
 ---
 
 Built and maintained the statistical analysis pipeline in R for PICUBE, a pediatric ICU study of blood-pressure

@@ -2,6 +2,12 @@
 title: "CRO Clinical Trial Reporting & Validation"
 excerpt: "SAS/R statistical analyses, CDISC (SDTM) dataset validation, and audit-ready TLF outputs across three CRO/pharma engagements."
 collection: portfolio
+skills:
+  - SAS
+  - SAS Macros
+  - CDISC/SDTM
+  - R
+  - SQL
 ---
 
 Across three CRO and pharmaceutical research engagements (Clinpharma Clinical Research, JN Data Resolution,
