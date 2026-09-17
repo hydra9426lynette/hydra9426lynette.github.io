@@ -11,6 +11,12 @@ redirect_from:
 
 [Download PDF résumé](/files/resume.pdf){: .btn .btn--primary}
 
+<div style="width:100%; max-width:850px; margin: 24px auto; border: 1px solid #ddd; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.08);">
+  <iframe src="/files/resume.pdf" title="Résumé PDF" style="width:100%; height:900px; border:none; display:block;">
+    <p>Your browser doesn't support embedded PDFs. <a href="/files/resume.pdf">Download the résumé instead</a>.</p>
+  </iframe>
+</div>
+
 Education
 ======
 * M.S. in Statistics, Columbia University, Sep 2024 – Dec 2025
