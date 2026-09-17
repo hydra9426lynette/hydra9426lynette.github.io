@@ -22,13 +22,7 @@ redirect_from:
 Education
 ======
 * M.S. in Statistics, Columbia University, Sep 2024 – Dec 2025
-  * Databases, Neural Networks & Deep Learning, Linear Regression Models, Nonparametric Statistics, Survival
-    Analysis, A/B Testing, Statistical Machine Learning, Probability & Statistical Inference, Causal Inference,
-    Algorithms, Bayesian Statistics
-* B.S. in Statistics, Pennsylvania State University — University Park, Aug 2019 – Dec 2021
-  * Dean's List (2019). Computational Data Science, Probability Theory, Mathematical Statistics, Time Series,
-    Regression Analysis, Analysis of Variance, Computer Programming, SAS, Hypothesis Testing, Accounting &
-    Financial Management
+* B.S. in Statistics, Pennsylvania State University — University Park, Aug 2019 – Dec 2021 (Dean's List, 2019)
 
 Work experience
 ======
