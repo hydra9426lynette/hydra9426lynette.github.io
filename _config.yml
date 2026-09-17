@@ -22,7 +22,7 @@ repository               : "hydra9426lynette/hydra9426lynette.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Nina Tang"
   pronouns         : # example: "she/her"
   bio              : "Clinical SAS Programmer & Biostatistician — CDISC/SDTM, clinical trial reporting, R/SQL"
