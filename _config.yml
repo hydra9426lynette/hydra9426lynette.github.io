@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Nina Tang"
 title_separator          : "-"
 name                     : &name "Nina Tang"
-description              : &description "Nina Tang — Clinical SAS Programmer & Biostatistician"
+description              : &description "Nina Tang — Clinical SAS Programmer & Statistical Analyst"
 url                      : https://hydra9426lynette.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hydra9426lynette/hydra9426lynette.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Nina Tang"
   pronouns         : # example: "she/her"
-  bio              : "Clinical SAS Programmer & Biostatistician — CDISC/SDTM, clinical trial reporting, R/SQL"
+  bio              : "Clinical Data Analyst / Statistical Analyst & SAS Programmer — CDISC/SDTM, clinical trial reporting, R/SQL"
   location         : "Washington, DC"
   employer         : # URL
   uri              : # URL
