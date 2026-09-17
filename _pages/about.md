@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+<span class="eyebrow">Clinical SAS Programmer · Biostatistics · CDISC (SDTM/ADaM)</span>
+
 I'm a clinical/statistical SAS programmer with a master's degree in Statistics from Columbia University and three
 years of full-time experience across CROs and pharmaceutical research. I produce and peer-review SAS/R statistical
 analyses, validate CDISC-structured (SDTM/ADaM) safety and efficacy datasets, and generate audit-ready TLF outputs
