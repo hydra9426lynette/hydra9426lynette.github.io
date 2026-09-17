@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "CRO Clinical Trial Reporting & Validation"
+excerpt: "SAS/R statistical analyses, CDISC (SDTM) dataset validation, and audit-ready TLF outputs across three CRO/pharma engagements."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Across three CRO and pharmaceutical research engagements (Clinpharma Clinical Research, JN Data Resolution,
+Yangtze River Consulting), I produced and peer-reviewed SAS/R statistical analyses and visualizations for safety
+and efficacy data — applying regression, categorical, time-to-event, and mixed-model methods.
+
+I validated datasets against CDISC (SDTM) structure using SAS macros, and generated audit-ready TLF outputs
+(tables, listings, and graphs) in HTML, RTF, and PDF for meetings, progress reports, and regulatory review.
+
+**Skills:** SAS, SAS Macros, CDISC/SDTM, R, SQL, regulatory-compliant reporting

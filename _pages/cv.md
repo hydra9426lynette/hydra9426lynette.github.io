@@ -9,56 +9,84 @@ redirect_from:
 
 {% include base_path %}
 
+[Download PDF résumé](/files/resume.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Statistics, Columbia University, Sep 2024 – Dec 2025
+  * Databases, Neural Networks & Deep Learning, Linear Regression Models, Nonparametric Statistics, Survival
+    Analysis, A/B Testing, Statistical Machine Learning, Probability & Statistical Inference, Causal Inference,
+    Algorithms, Bayesian Statistics
+* B.S. in Statistics, Pennsylvania State University — University Park, Aug 2019 – Dec 2021
+  * Dean's List (2019). Computational Data Science, Probability Theory, Mathematical Statistics, Time Series,
+    Regression Analysis, Analysis of Variance, Computer Programming, SAS, Hypothesis Testing, Accounting &
+    Financial Management
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Jun 2023 – Feb 2024: SAS Programmer — *Clinical / CRO*
+  * Clinpharma Clinical Research LLC, Princeton, NJ
+  * Applied advanced statistical methods in R and SAS to rigorously test pharmaceutical research hypotheses
+  * Conducted experimental design and advanced statistical analyses; R for simulation/modeling/visualization, SAS
+    for regulatory-compliant reporting and validation
+  * Implemented a risk-based, flexible QA approach — R for statistical modeling/visualization, SAS for compliance
+    reporting
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Feb 2024 – Aug 2024: Statistical Programmer — *Clinical / CRO*
+  * JN Data Resolution LLC, Florham Park, NJ
+  * Produced and peer-reviewed statistical analyses and visualizations with SAS, R, and SQL — regression,
+    categorical, time-to-event, and mixed-model methods on safety and efficacy data
+  * Validated safety and efficacy datasets using SAS macros in CDISC structure; decided on analysis methods based
+    on data structure and objectives
+  * Produced data visualizations using SAS and R/R Shiny; peer-reviewed programs coded by other programmers for
+    data consistency
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Jan 2025 – May 2025: Research Intern
+  * Columbia University, New York, NY
+  * Analyzed high-dimensional DNA-sequencing data in R — QC assessment, sequencing reads, genetic variation,
+    structural changes
+  * Developed R-based simulations to evaluate statistical methods for interpreting genetic mechanisms and disease
+    pathways
+  * Applied Approximate Bayesian Computation with random forests and sequential Monte Carlo methods to infer
+    parameters and quantify uncertainty in high-dimensional genetic datasets
+
+* Sep 2025 – Present: Machine Learning Engineer
+  * Around Technologies Inc., New York, NY
+  * Developed and deployed ML forecasting models for delivery ETA prediction, linking outputs to business
+    performance reporting
+  * Designed user-level A/B testing metrics and SQL pipelines integrating behavioral data
+  * Led analytics reporting for a phase-one product launch — dashboards, forecasts, profit-impact analyses for
+    executives and shareholders
+  * Built scalable PyTorch pipelines, cutting training time from 6 hours to 3.9 hours and lowering cloud costs
+
+* Sep 2025 – Present: Data Science Researcher
+  * Columbia University, New York, NY
+  * Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data for
+    deterioration modeling
+  * Engineered and validated age-specific hypotension features using AHA/PALS clinical thresholds
+  * Developed and evaluated statistical/ML models (logistic regression, penalized regression, gradient boosting,
+    XGBoost); presented results to the pediatric study team
+
+* Jan 2026 – Jul 2026: Data Research Intern
+  * United Nations, New York, NY
+  * Consolidated five years of fragmented flight operational records into a centralized, SQL Server-backed
+    metadata repository
+  * Migrated and reconciled two years of historical records via Python-based schema mapping, entity resolution,
+    deduplication, and source-to-target validation
+  * Designed data dictionaries, naming standards, validation rules, and governance controls; built automated
+    workflows to enforce them across intake and reporting
+  * Developed real-time Power BI dashboards for fleet availability, GPS tracking, utilization, and operational risk
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* SAS: SAS Macros, CDISC (SDTM/ADaM), regulatory-compliant validation and reporting, TLF generation
+* Statistics: regression, categorical, time-to-event/survival analysis, mixed-model methods, Bayesian statistics
+* Programming: R, R Shiny, SQL/MySQL, Python, PyTorch
+* Tools: Tableau, Power BI, AWS, Excel
+* Other: EDA, ETL, machine learning, neural networks, NLP, operations research, business analytics
 
-Publications
+Awards
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Top Finalist, ENAR — machine learning research on hypertension using NHANES data (March 2025)
+* 3rd Place, sponsored by NVIDIA & Amazon — 2025 NSF LEAP "Harnessing Machine Learning to Improve
+  Subseasonal-to-Seasonal Climate Predictions" Hackathon
