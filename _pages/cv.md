@@ -95,7 +95,7 @@ redirect_from:
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Feb 2023 – Jun 2023</div>
+          <div class="timeline-date">Jan 2023 – Jun 2023</div>
           <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
           <div class="timeline-meta">Yangtze River Consulting Service LLC <span class="dot">&middot;</span> Lawrence Township, NJ</div>
           <div class="timeline-skills"><span>SAS</span><span>CDISC SDTM/ADaM</span><span>SAP Review</span></div>
@@ -106,7 +106,7 @@ redirect_from:
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Aug 2022 – Feb 2023</div>
+          <div class="timeline-date">Aug 2022 – Jan 2023</div>
           <h4 class="timeline-role">SAS Programmer Intern <span class="timeline-focus">Clinical / CRO</span></h4>
           <div class="timeline-meta">Yangtze River Consulting Service LLC <span class="dot">&middot;</span> Lawrence Township, NJ</div>
           <div class="timeline-skills"><span>SAS</span><span>Data Import/Merge</span><span>Ad-Hoc Reporting</span></div>
