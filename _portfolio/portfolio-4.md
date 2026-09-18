@@ -10,16 +10,16 @@ skills:
   - Cohort Derivation
 ---
 
-Every clinical study has a written plan and, eventually, a gap between what the plan says and what the code
-actually does. My job on PICUBE — a pediatric ICU study of blood pressure and clinical deterioration, under
-[Dr. Andrew Geneslaw, MD, MS](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md) of Columbia's
-Pediatric Critical Care Medicine division — was to close that gap: an R pipeline built to mirror the Statistical
-Analysis Plan section by section, so nothing was re-derived by hand between report versions.
-
-That meant encoding the plan's cohort exclusions and height-imputation rules directly, validating blood-pressure
-readings against Flynn's 2017 AAP percentiles, and building the PALS-based hypotension logic that tells a single
-noisy reading apart from a real patient-level decline — the same distinction the deterioration-modeling work
-below relies on, seen here from the compliance side rather than the modeling side.
+* Built an R pipeline for PICUBE, a pediatric ICU study of blood pressure and clinical deterioration, mirroring
+  the written Statistical Analysis Plan (SAP) section by section so nothing was re-derived by hand between
+  report versions
+* Encoded the SAP's cohort exclusion criteria and height-imputation rules directly into code
+* Validated blood-pressure readings against Flynn's 2017 AAP percentiles
+* Built PALS-based hypotension flagging logic distinguishing a single noisy reading from a real patient-level
+  decline
+* Supervised by [Dr. Andrew Geneslaw, MD, MS](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md),
+  Pediatric Critical Care Medicine, Columbia University Irving Medical Center / Morgan Stanley Children's
+  Hospital
 
 *No patient data or real study output appears here; this project involves protected pediatric clinical data and
 is described at the methodology level only.*

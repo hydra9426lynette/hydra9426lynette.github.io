@@ -15,7 +15,7 @@ analyses, validate CDISC-structured (SDTM/ADaM) safety and efficacy datasets, an
 for regulatory submission.
 
 I'm comfortable across the full clinical programming stack (SAS, R, SQL) as well as applied biostatistics —
-regression, categorical, time-to-event, and mixed-model methods — and I'm currently based in Washington, DC.
+regression, categorical, time-to-event, and mixed-model methods.
 
 Most recently, I've also worked on data governance and dashboarding for the United Nations and pediatric
 deterioration modeling at Columbia University, but my core focus and strongest background is clinical trial /

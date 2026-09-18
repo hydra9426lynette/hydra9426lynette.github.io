@@ -26,7 +26,7 @@ author:
   name             : "Nina Tang"
   pronouns         : # example: "she/her"
   bio              : "Clinical Data Analyst / Statistical Analyst & SAS Programmer — CDISC/SDTM, clinical trial reporting, R/SQL"
-  location         : "Washington, DC"
+  location         :
   employer         : # URL
   uri              : # URL
   email            : "shuxintang99@gmail.com"

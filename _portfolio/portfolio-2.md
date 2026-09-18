@@ -10,12 +10,14 @@ skills:
   - XGBoost
 ---
 
-A pediatric ICU produces blood-pressure readings by the thousand, most of them unremarkable. The question this
-project asked was which ones weren't: which single low reading was noise, and which was the first sign a child
-was getting worse. I built the R pipeline that cleaned, imputed, and reconciled that data — vitals, labs, ICD
-codes, nursing flowsheets — into one dataset built to answer it.
-
-Getting the threshold right meant applying AHA/PALS age-specific definitions of hypotension, correcting how age
-itself was calculated, and separating a transient dip in one reading from a genuine patient-level decline. From
-there, logistic and penalized regression, gradient boosting, and XGBoost competed to predict deterioration —
-results I presented back to the clinical study team.
+* Built an end-to-end R pipeline turning raw EHR extracts (vitals, labs, ICD codes, nursing flowsheets) into a
+  clean, encounter-level cohort ready for modeling
+* Key finding: many single readings below standard low hypotension thresholds were transient noise, not linked
+  to real patient-level deterioration — motivating a reading-level vs. patient-level distinction in the outcome
+  definition
+* Applied AHA/PALS age-specific hypotension thresholds and corrected continuous-age calculations feeding into
+  those thresholds
+* Compared logistic regression, penalized regression, gradient boosting, and XGBoost for deterioration
+  prediction, evaluated with precision-recall curves (PRROC)
+* R packages: dplyr, data.table, tidyr, lubridate, stringr for the pipeline; lme4 for mixed-effects modeling;
+  gtsummary/gt and ggplot2 for reporting; PRROC for model evaluation
