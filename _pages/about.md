@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class="eyebrow">Clinical Data Analyst · Statistical Analyst · SAS Programmer</span>
+<span class="eyebrow">Clinical Data Analyst | Statistical Analyst | SAS Programmer</span>
 
 I'm goal-oriented and, at heart, motivated by care — for patients, and for the people data ends up serving,
 whether in healthcare or beyond. I like the work of caring and sharing what I find.
