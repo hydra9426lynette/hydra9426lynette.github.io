@@ -13,9 +13,9 @@ title                    : "Nina Tang"
 title_separator          : "-"
 name                     : &name "Nina Tang"
 description              : &description "Nina Tang — Clinical SAS Programmer & Statistical Analyst"
-url                      : https://hydra9426lynette.github.io
+url                      : https://shuxint.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hydra9426lynette/hydra9426lynette.github.io"
+repository               : "shuxint/shuxint.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -50,7 +50,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "hydra9426lynette"
+  github           : "shuxint"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
