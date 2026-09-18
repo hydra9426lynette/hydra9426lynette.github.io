@@ -242,6 +242,17 @@ a.btn {
   color: var(--a-text);
   margin-bottom: 8px;
 }
+.cv-sublist {
+  margin: 6px 0 0;
+  padding-left: 18px;
+  list-style: circle;
+}
+.cv-sublist li {
+  font-size: 12.5px;
+  line-height: 1.55;
+  color: var(--a-text-secondary);
+  margin-bottom: 4px;
+}
 .cv-card .timeline {
   margin-top: 8px;
 }

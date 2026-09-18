@@ -38,12 +38,11 @@ redirect_from:
           <div class="timeline-date">Jan 2026 – Jul 2026</div>
           <h4 class="timeline-role">Data Research Intern <span class="timeline-focus">Office of Supply Chain Management</span></h4>
           <div class="timeline-meta">United Nations, Department of Operational Support <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>Python</span><span>SQL Server</span><span>Power BI</span><span>Data Governance</span></div>
+          <div class="timeline-skills"><span>Power BI</span><span>DAX</span><span>Python</span><span>SQL Server</span><span>ETL</span><span>Power Automate</span></div>
           <ul class="timeline-bullets">
-            <li>Consolidated five years of fragmented flight operational records into a centralized, SQL Server-backed metadata repository.</li>
-            <li>Migrated and reconciled two years of historical records via Python-based schema mapping, entity resolution, deduplication, and source-to-target validation.</li>
-            <li>Designed data dictionaries, naming standards, validation rules, and governance controls; built automated workflows to enforce them across intake and reporting.</li>
-            <li>Developed real-time Power BI dashboards for fleet availability, GPS tracking, utilization, and operational risk.</li>
+            <li>Led KPI design and delivered 5+ internal and web-based dashboards using Power BI, Power Query, DAX, and data modeling, centralizing fleet utilization, maintenance, safety, insurance, GPS, and operational-status metrics.</li>
+            <li>Built Python and SQL ETL workflows to clean, deduplicate, validate, and integrate 57K+ records per region into a centralized SQL Server repository for analysis and downstream reporting.</li>
+            <li>Automated recurring data collection and reporting through Microsoft Forms, SharePoint Lists, and Power Automate, integrating operational and GPS/GIS data for management decisions.</li>
           </ul>
         </div>
 
@@ -56,19 +55,6 @@ redirect_from:
             <li>Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data (blood pressure, labs, ICD codes, nursing flowsheets).</li>
             <li>Derived and validated age- and weight-specific lower blood-pressure bounds beyond fixed AHA/PALS thresholds; engineered hypotension-burden measures (episode frequency, duration, severity) and evaluated sensitivity/PPV against nurse-documented adverse events.</li>
             <li>Evaluated missingness, selection bias, and cohort coverage; applied stratified sampling, downsampling, PCA, regression, gradient boosting, and XGBoost, presenting findings to a multidisciplinary pediatric research team.</li>
-          </ul>
-        </div>
-
-        <div class="timeline-item">
-          <div class="timeline-date">Sep 2025 – Present</div>
-          <h4 class="timeline-role">Machine Learning Engineer</h4>
-          <div class="timeline-meta">Around Technologies Inc. <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>PyTorch</span><span>SQL</span><span>sf / r5r (R)</span><span>Bayesian Spatial Models (INLA/SPDE)</span><span>GTFS</span></div>
-          <ul class="timeline-bullets">
-            <li>Scraped and standardized U.S. GIS, GTFS, and administrative-boundary data (states, counties, tracts, blocks) in R, applying geographic crosswalks to build analysis-ready spatial datasets.</li>
-            <li>Built routable multimodal networks and travel-time matrices from GTFS feeds using sf and r5r; calculated route-speed, service-coverage, and accessibility metrics.</li>
-            <li>Applied Bayesian hierarchical spatial models (INLA/SPDE) and deep-learning approaches to areal and geostatistical delivery data, engineering spatial features for ETA prediction.</li>
-            <li>Built SQL pipelines joining order, route, GPS, and behavioral data for ETA error, A/B testing, and launch-performance metrics; built executive dashboards linking forecasts to profit impact.</li>
           </ul>
         </div>
 
@@ -88,7 +74,7 @@ redirect_from:
           <div class="timeline-date">Feb 2024 – Aug 2024</div>
           <h4 class="timeline-role">Statistical Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
           <div class="timeline-meta">JN Data Resolution LLC <span class="dot">&middot;</span> Florham Park, NJ</div>
-          <div class="timeline-skills"><span>SAS</span><span>SAS Macros</span><span>CDISC/SDTM</span><span>R / R Shiny</span><span>SQL</span></div>
+          <div class="timeline-skills"><span>SAS</span><span>CDISC/SDTM</span><span>R / R Shiny</span></div>
           <ul class="timeline-bullets">
             <li>Produced and peer-reviewed statistical analyses and visualizations with SAS, R, and SQL — regression, categorical, time-to-event, and mixed-model methods on safety and efficacy data.</li>
             <li>Validated safety and efficacy datasets using SAS macros in CDISC structure; decided on analysis methods based on data structure and objectives.</li>
@@ -100,7 +86,7 @@ redirect_from:
           <div class="timeline-date">Jun 2023 – Feb 2024</div>
           <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
           <div class="timeline-meta">Clinpharma Clinical Research LLC <span class="dot">&middot;</span> Princeton, NJ</div>
-          <div class="timeline-skills"><span>SAS</span><span>R</span><span>Experimental Design</span><span>QA / Compliance Reporting</span></div>
+          <div class="timeline-skills"><span>SAS</span><span>Experimental Design</span></div>
           <ul class="timeline-bullets">
             <li>Applied advanced statistical methods in R and SAS to rigorously test pharmaceutical research hypotheses.</li>
             <li>Conducted experimental design and advanced statistical analyses; R for simulation/modeling/visualization, SAS for regulatory-compliant reporting and validation.</li>
@@ -149,15 +135,19 @@ redirect_from:
       <h2>Awards</h2>
       <ul class="cv-plain-list">
         <li>Top Finalist, <a href="https://www.enar.org/">ENAR</a> (a top biostatistics conference) —
-          <a href="https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm">2025 DataFest</a>:
-          <em>"The Interaction Effect Between Antihypertensive Medication and Depressive Symptoms on Uncontrolled
-          Hypertension Using Regression Survey Analysis and Random Forest Tree Approach,"</em> with Sarvar
-          Khamidov and Linqing Zheng, presented March 24, 2025 in New Orleans, mentored by
-          <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang">Dr. Liangliang (Lyons) Zhang</a>,
-          Assistant Professor of Population and Quantitative Health Sciences, Case Western Reserve University
-          School of Medicine, whose research applies Bayesian statistics to microbiome, single-cell, and spatial
-          omics data.
-          See the <a href="https://ma.stat.columbia.edu/2024/08/22/2024-joint-statistical-meetings-ma-student-experience/">Columbia Statistics Department announcement</a>.</li>
+          <a href="https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm">2025 DataFest</a>
+          <ul class="cv-sublist">
+            <li><em>"The Interaction Effect Between Antihypertensive Medication and Depressive Symptoms on
+              Uncontrolled Hypertension Using Regression Survey Analysis and Random Forest Tree Approach,"</em>
+              with Sarvar Khamidov and Linqing Zheng, presented March 24, 2025 in New Orleans</li>
+            <li>Mentored by <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang">Dr. Liangliang (Lyons) Zhang</a>,
+              Assistant Professor of Population and Quantitative Health Sciences, Case Western Reserve
+              University School of Medicine, whose research applies Bayesian statistics to microbiome,
+              single-cell, and spatial omics data</li>
+            <li>News: <a href="https://ma.stat.columbia.edu/2024/08/22/2024-joint-statistical-meetings-ma-student-experience/">Columbia Statistics Department announcement</a>
+              and <a href="https://publichealth.nyu.edu/department/biostatistics">NYU School of Global Public Health, Department of Biostatistics</a></li>
+          </ul>
+        </li>
         <li>3rd Place, sponsored by NVIDIA &amp; Amazon —
           <a href="https://leap.columbia.edu/knowledge-transfer/january-2025-hackathon/">2025 NSF LEAP Hackathon</a>,
           "Harnessing Machine Learning to Improve Subseasonal-to-Seasonal Climate Predictions" (Columbia
