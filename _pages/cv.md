@@ -74,7 +74,7 @@ redirect_from:
 
         <div class="timeline-item">
           <div class="timeline-date">Jan 2025 – May 2025</div>
-          <h4 class="timeline-role">Research Intern</h4>
+          <h4 class="timeline-role">Research Intern <span class="timeline-focus">Irving Institute for Cancer Dynamics, Dinh Lab</span></h4>
           <div class="timeline-meta">Columbia University <span class="dot">&middot;</span> New York, NY</div>
           <div class="timeline-skills"><span>R</span><span>Approximate Bayesian Computation</span><span>Random Forests</span><span>Bayesian Statistics</span></div>
           <ul class="timeline-bullets">
