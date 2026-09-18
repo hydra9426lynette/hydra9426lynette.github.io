@@ -390,7 +390,7 @@ a.btn {
 .skill-pills {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
+  gap: 6px;
   margin: 12px 0 32px;
 }
 .skill-group .skill-pills {
@@ -399,9 +399,9 @@ a.btn {
 .skill-pills span {
   background: var(--a-surface);
   color: var(--a-text);
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 500;
-  padding: 6px 14px;
+  padding: 3px 10px;
   border-radius: var(--a-radius-pill);
 }
 

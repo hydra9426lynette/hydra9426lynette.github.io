@@ -177,6 +177,9 @@ redirect_from:
         <li><strong><a href="https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md">Dr. Andrew Geneslaw, MD, MS</a></strong> —
           Pediatric Critical Care Medicine, Columbia University Irving Medical Center / Morgan Stanley Children's
           Hospital</li>
+        <li><strong><a href="https://www.linkedin.com/in/christina-last">Christina Last</a></strong> — ML
+          Researcher, Mila – Quebec Artificial Intelligence Institute (MIT); formerly Research Data Scientist,
+          The Alan Turing Institute</li>
       </ul>
     </section>
 
