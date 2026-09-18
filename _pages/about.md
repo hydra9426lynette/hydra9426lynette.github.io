@@ -13,7 +13,7 @@ I'm goal-oriented and, at heart, motivated by care — for patients, and for the
 whether in healthcare or beyond. I like the work of caring and sharing what I find.
 
 I'm a clinical/statistical SAS programmer with a master's degree in Statistics from Columbia University and three
-years of full-time experience across CROs and pharmaceutical research. I produce and peer-review SAS/R statistical
+years of full-time experience across **CROs** and pharmaceutical research. I produce and peer-review SAS/R statistical
 analyses, validate CDISC-structured (SDTM/ADaM) safety and efficacy datasets, and generate audit-ready TLF outputs
 for regulatory submission.
 
