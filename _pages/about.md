@@ -17,7 +17,7 @@ years of full-time experience across **CROs** and pharmaceutical research. I pro
 analyses, validate CDISC-structured (SDTM/ADaM) safety and efficacy datasets, and generate audit-ready TLF outputs
 for regulatory submission.
 
-I'm comfortable across the full clinical programming stack (SAS, R, SQL) as well as applied biostatistics —
+I'm comfortable across the full clinical programming stack (SAS, R, SQL, Python) as well as applied biostatistics —
 regression, categorical, time-to-event, and mixed-model methods.
 
 Most recently, I completed a six-month internship with the **United Nations** (Jan–Jul 2026), and I was appointed
