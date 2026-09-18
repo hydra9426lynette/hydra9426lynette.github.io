@@ -10,28 +10,16 @@ skills:
   - Cohort Derivation
 ---
 
-Built and maintained the statistical analysis pipeline in R for PICUBE, a pediatric ICU study of blood-pressure
-readings and clinical deterioration, implemented directly against a versioned Statistical Analysis Plan (SAP),
-under the supervision of [Dr. Andrew Geneslaw, MD, MS](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md),
-Pediatric Critical Care Medicine, Columbia University / Morgan Stanley Children's Hospital.
+Every clinical study has a written plan and, eventually, a gap between what the plan says and what the code
+actually does. My job on PICUBE — a pediatric ICU study of blood pressure and clinical deterioration, under
+[Dr. Andrew Geneslaw, MD, MS](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md) of Columbia's
+Pediatric Critical Care Medicine division — was to close that gap: an R pipeline built to mirror the Statistical
+Analysis Plan section by section, so nothing was re-derived by hand between report versions.
 
-**Pipeline highlights:**
-* Encounter-level derivations and cohort exclusions applied per SAP-specified criteria
-* Height imputation via last-observation-carried-forward (LOCF), per SAP §2.3
-* Parsing and validation of systolic/diastolic/mean arterial pressure (SBP/DBP/MAP) readings, including error-
-  distribution checks to flag extreme discrepancies
-* Age- and percentile-based hypotension thresholds using Flynn 2017 AAP percentiles
-* PALS-based hypotension flagging (SAP §4.1) and a derived threshold pipeline (SAP §4.4) distinguishing transient
-  reading-level hypotension from patient-level clinical outcomes
-* Outcome labeling for death or CPR within 24 hours, feeding into the study's main analytic tables and figures
-  (SAP §3.7)
+That meant encoding the plan's cohort exclusions and height-imputation rules directly, validating blood-pressure
+readings against Flynn's 2017 AAP percentiles, and building the PALS-based hypotension logic that tells a single
+noisy reading apart from a real patient-level decline — the same distinction the deterioration-modeling work
+below relies on, seen here from the compliance side rather than the modeling side.
 
-This work sits alongside the machine-learning side of the same project (see the deterioration-modeling entry
-below) but focuses specifically on the biostatistics/SAP-compliance layer: reproducible R code that turns a
-written analysis plan into an auditable, versioned pipeline — no manual re-derivation between report versions.
-
-**Skills:** R, SAP-compliant biostatistical programming, clinical thresholds (AAP/PALS), data validation, cohort
-derivation, reproducible reporting
-
-*No patient data, images, or real study output are shown here — this project involves protected pediatric
-clinical data and is described at the methodology level only.*
+*No patient data or real study output appears here; this project involves protected pediatric clinical data and
+is described at the methodology level only.*

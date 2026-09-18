@@ -10,11 +10,11 @@ skills:
   - SQL
 ---
 
-Across three CRO and pharmaceutical research engagements (Clinpharma Clinical Research, JN Data Resolution,
-Yangtze River Consulting), I produced and peer-reviewed SAS/R statistical analyses and visualizations for safety
-and efficacy data — applying regression, categorical, time-to-event, and mixed-model methods.
+Three CRO engagements, one recurring job: turn raw trial data into something a regulator could trust without a
+second look. At Clinpharma, JN Data Resolution, and Yangtze River Consulting, I wrote and peer-reviewed SAS and R
+analyses of safety and efficacy data — regression, time-to-event, mixed-model — then checked the same structure
+against CDISC's SDTM standard until the two matched.
 
-I validated datasets against CDISC (SDTM) structure using SAS macros, and generated audit-ready TLF outputs
-(tables, listings, and graphs) in HTML, RTF, and PDF for meetings, progress reports, and regulatory review.
-
-**Skills:** SAS, SAS Macros, CDISC/SDTM, R, SQL, regulatory-compliant reporting
+The output was rarely glamorous: tables, listings, and figures rendered to HTML, RTF, and PDF, destined for a
+progress report or a regulatory file. But the standard was constant — every number traceable back to its source,
+every discrepancy caught before a reviewer found it first.

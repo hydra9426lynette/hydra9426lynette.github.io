@@ -10,14 +10,12 @@ skills:
   - XGBoost
 ---
 
-Built an R-based data pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data —
-including blood pressure readings, laboratory results, ICD codes, and nursing flowsheets — creating a reliable
-patient- and reading-level dataset for deterioration modeling.
+A pediatric ICU produces blood-pressure readings by the thousand, most of them unremarkable. The question this
+project asked was which ones weren't: which single low reading was noise, and which was the first sign a child
+was getting worse. I built the R pipeline that cleaned, imputed, and reconciled that data — vitals, labs, ICD
+codes, nursing flowsheets — into one dataset built to answer it.
 
-Engineered and validated age-specific hypotension features using AHA/PALS clinical thresholds, corrected
-continuous-age calculations, and distinguished transient reading-level hypotension from patient-level outcomes.
-Developed and evaluated statistical and machine-learning models — linear and logistic regression, penalized
-regression, gradient boosting, and XGBoost — presenting visualizations and interim results to the pediatric study
-team.
-
-**Skills:** R, clinical feature engineering, logistic/penalized regression, gradient boosting, XGBoost
+Getting the threshold right meant applying AHA/PALS age-specific definitions of hypotension, correcting how age
+itself was calculated, and separating a transient dip in one reading from a genuine patient-level decline. From
+there, logistic and penalized regression, gradient boosting, and XGBoost competed to predict deterioration —
+results I presented back to the clinical study team.
