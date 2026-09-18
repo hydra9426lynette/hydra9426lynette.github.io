@@ -35,6 +35,12 @@ toward biostatistics and clinical work in the first place, and I'm listed as an 
 project — a [spatial-transcriptomics analysis of human pancreas tissue](/portfolio/portfolio-5/). It was where I
 started chasing what I actually value and find interesting — work I did purely because it brought me joy.
 
+That's the breakthrough that led me to [Dr. Andrew Geneslaw](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md)'s
+pediatric ICU hypotension research — deriving lower blood-pressure bounds for real, critically ill kids, not
+abstract benchmarks. It's the kind of work Naval Ravikant would call specific knowledge: built through genuine
+curiosity rather than credentialing, and it compounds because I actually love doing it. That's the discovery
+journey I'm on — goal-oriented, but chasing goals that are mine, in work that matters to someone.
+
 My core focus and strongest background remains clinical trial / SAS programming.
 
 Take a look at my [Portfolio](/portfolio/) for project highlights, or see my full [CV](/cv/) for education, work
