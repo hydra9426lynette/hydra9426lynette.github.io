@@ -15,6 +15,17 @@
     "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
+html[data-theme="dark"] {
+  --a-bg: #000000;
+  --a-text: #ffffff;
+  --a-text-secondary: #a1a1a6;
+  --a-text-tertiary: #86868b;
+  --a-accent: #2997ff;
+  --a-accent-hover: #5ac8fa;
+  --a-line: #2c2c2e;
+  --a-surface: #1c1c1e;
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -35,6 +46,9 @@ body,
   -webkit-backdrop-filter: saturate(180%) blur(20px);
   border-bottom: 1px solid var(--a-line) !important;
   box-shadow: none !important;
+}
+html[data-theme="dark"] .masthead {
+  background: rgba(0, 0, 0, 0.8) !important;
 }
 .masthead__inner-wrap {
   font-family: var(--a-font);
