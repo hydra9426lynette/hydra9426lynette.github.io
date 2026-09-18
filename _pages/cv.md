@@ -25,7 +25,7 @@ redirect_from:
       <h2>Education</h2>
       <ul class="cv-plain-list">
         <li>M.S. in Statistics, Columbia University, Sep 2024 – Feb 2026</li>
-        <li>B.S. in Statistics, Minor in Economics, Pennsylvania State University — University Park, Aug 2019 – Dec 2021 (Dean's List, 2019)</li>
+        <li>B.S. in Statistics, Minor in Economics, Pennsylvania State University — University Park, Aug 2019 – Jan 2022 (Dean's List, 2019)</li>
       </ul>
     </section>
 
