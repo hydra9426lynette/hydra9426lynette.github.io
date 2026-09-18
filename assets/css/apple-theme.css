@@ -365,6 +365,13 @@ a.btn {
   color: var(--a-text);
   margin-bottom: 6px;
 }
+.timeline-reference {
+  margin: 10px 0 0;
+  font-size: 12.5px;
+  line-height: 1.5;
+  color: var(--a-text-tertiary);
+  font-style: italic;
+}
 
 /* ---------- Skills pills on CV ---------- */
 .skill-group {

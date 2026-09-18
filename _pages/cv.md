@@ -36,7 +36,7 @@ redirect_from:
         <div class="timeline-item">
           <div class="timeline-date">Jan 2026 – Jul 2026</div>
           <h4 class="timeline-role">Data Research Intern</h4>
-          <div class="timeline-meta">United Nations <span class="dot">&middot;</span> New York, NY</div>
+          <div class="timeline-meta">United Nations, Department of Operational Support <span class="dot">&middot;</span> New York, NY</div>
           <div class="timeline-skills"><span>Python</span><span>SQL Server</span><span>Power BI</span><span>Data Governance</span></div>
           <ul class="timeline-bullets">
             <li>Consolidated five years of fragmented flight operational records into a centralized, SQL Server-backed metadata repository.</li>
@@ -44,6 +44,9 @@ redirect_from:
             <li>Designed data dictionaries, naming standards, validation rules, and governance controls; built automated workflows to enforce them across intake and reporting.</li>
             <li>Developed real-time Power BI dashboards for fleet availability, GPS tracking, utilization, and operational risk.</li>
           </ul>
+          <p class="timeline-reference">Reference: Miguel Lens Pardo — Chief, Aviation Projects, Planning and Training Unit,
+          Air Transport Service, Logistics Division, Office of Supply Chain Management, UN Department of
+          Operational Support</p>
         </div>
 
         <div class="timeline-item">
