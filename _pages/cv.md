@@ -23,7 +23,7 @@ redirect_from:
     <section id="education" class="cv-card">
       <h2>Education</h2>
       <ul class="cv-plain-list">
-        <li>M.S. in Statistics, Columbia University, Sep 2024 – Dec 2025 (degree conferred Feb 2026)</li>
+        <li>M.S. in Statistics, Columbia University, Sep 2024 – Feb 2026</li>
         <li>B.S. in Statistics, Pennsylvania State University — University Park, Aug 2019 – Dec 2021 (Dean's List, 2019)</li>
       </ul>
     </section>
