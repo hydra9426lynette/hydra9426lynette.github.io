@@ -28,6 +28,21 @@ html[data-theme="dark"] {
 
 html {
   scroll-behavior: smooth;
+  -webkit-overflow-scrolling: touch;
+}
+
+/* ---------- Sticky, centered profile sidebar ---------- */
+.sidebar {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 84px !important;
+  align-self: flex-start;
+}
+@media (max-width: 600px) {
+  .sidebar {
+    position: relative !important;
+    top: 0 !important;
+  }
 }
 
 body,
