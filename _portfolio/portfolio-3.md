@@ -17,3 +17,6 @@ skills:
   where the underlying likelihood was too complex for closed-form modeling
 * Built R-based simulations to test whether the statistical methods themselves recovered correct parameters from
   noisy, high-dimensional genetic data
+* Completed under [Dr. Khanh Dinh](https://dinhngockhanh.github.io/)'s lab at the Herbert and Florence Irving
+  Institute for Cancer Dynamics, Columbia University — listed as an alumni fellow on the
+  [lab's people page](https://dinhngockhanh.github.io/people/)

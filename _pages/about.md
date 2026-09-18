@@ -30,7 +30,8 @@ What most shaped my path, though, was a semester at the
 [Herbert and Florence Irving Institute for Cancer Dynamics](https://cancerdynamics.columbia.edu/khanh-ngoc-dinh-phd),
 under [Dr. Khanh Dinh](https://dinhngockhanh.github.io/)'s lab — working with single-cell DNA-sequencing data,
 reducing high-dimensional genetic data, and running PCA for cross-validation. That semester is what pulled me
-toward biostatistics and clinical work in the first place. Fun fact: I later led my Data Science class's final
+toward biostatistics and clinical work in the first place, and I'm listed as an alumni fellow on the
+[lab's people page](https://dinhngockhanh.github.io/people/). Fun fact: I later led my Data Science class's final
 project — a [spatial-transcriptomics analysis of human pancreas tissue](/portfolio/portfolio-5/).
 
 My core focus and strongest background remains clinical trial / SAS programming.
