@@ -375,17 +375,17 @@ a.btn {
 
 /* ---------- Skills pills on CV ---------- */
 .skill-group {
-  margin-bottom: 22px;
+  margin-bottom: 12px;
 }
 .skill-group:last-child {
   margin-bottom: 0;
 }
 .skill-group h3 {
-  font-size: 13px;
+  font-size: 11.5px;
   font-weight: 600;
   letter-spacing: 0.01em;
   color: var(--a-text-secondary);
-  margin: 0 0 10px;
+  margin: 0 0 6px;
 }
 .skill-pills {
   display: flex;
