@@ -116,6 +116,7 @@ Skills
 
 Awards
 ======
-* Top Finalist, ENAR — machine learning research on hypertension using NHANES data (March 2025)
+* Top Finalist, [ENAR](https://www.enar.org/) (a top biostatistics conference) — machine learning research on
+  hypertension using NHANES data, mentored by [Dr. Liangliang (Lyons) Zhang](https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang) (March 2025)
 * 3rd Place, sponsored by NVIDIA & Amazon — 2025 NSF LEAP "Harnessing Machine Learning to Improve
   Subseasonal-to-Seasonal Climate Predictions" Hackathon
