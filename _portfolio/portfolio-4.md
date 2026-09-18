@@ -11,7 +11,9 @@ skills:
 ---
 
 Built and maintained the statistical analysis pipeline in R for PICUBE, a pediatric ICU study of blood-pressure
-readings and clinical deterioration, implemented directly against a versioned Statistical Analysis Plan (SAP).
+readings and clinical deterioration, implemented directly against a versioned Statistical Analysis Plan (SAP),
+under the supervision of [Dr. Andrew Geneslaw, MD, MS](https://www.pediatrics.columbia.edu/profile/andrew-s-geneslaw-md),
+Pediatric Critical Care Medicine, Columbia University / Morgan Stanley Children's Hospital.
 
 **Pipeline highlights:**
 * Encounter-level derivations and cohort exclusions applied per SAP-specified criteria
