@@ -73,24 +73,24 @@ redirect_from:
           <div class="timeline-date">Sep 2025 – Present</div>
           <h4 class="timeline-role">Machine Learning Engineer</h4>
           <div class="timeline-meta">Around Technologies Inc. <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>PyTorch</span><span>SQL</span><span>A/B Testing</span><span>Forecasting</span></div>
+          <div class="timeline-skills"><span>PyTorch</span><span>SQL</span><span>sf / r5r (R)</span><span>Bayesian Spatial Models (INLA/SPDE)</span><span>GTFS</span></div>
           <ul class="timeline-bullets">
-            <li>Developed and deployed ML forecasting models for delivery ETA prediction, linking outputs to business performance reporting.</li>
-            <li>Designed user-level A/B testing metrics and SQL pipelines integrating behavioral data.</li>
-            <li>Led analytics reporting for a phase-one product launch — dashboards, forecasts, profit-impact analyses for executives and shareholders.</li>
-            <li>Built scalable PyTorch pipelines, cutting training time from 6 hours to 3.9 hours and lowering cloud costs.</li>
+            <li>Scraped and standardized U.S. GIS, GTFS, and administrative-boundary data (states, counties, tracts, blocks) in R, applying geographic crosswalks to build analysis-ready spatial datasets.</li>
+            <li>Built routable multimodal networks and travel-time matrices from GTFS feeds using sf and r5r; calculated route-speed, service-coverage, and accessibility metrics.</li>
+            <li>Applied Bayesian hierarchical spatial models (INLA/SPDE) and deep-learning approaches to areal and geostatistical delivery data, engineering spatial features for ETA prediction.</li>
+            <li>Built SQL pipelines joining order, route, GPS, and behavioral data for ETA error, A/B testing, and launch-performance metrics; built executive dashboards linking forecasts to profit impact.</li>
           </ul>
         </div>
 
         <div class="timeline-item">
           <div class="timeline-date">Sep 2025 – Present</div>
-          <h4 class="timeline-role">Data Science Researcher</h4>
+          <h4 class="timeline-role">Data Science Research Scholar <span class="timeline-focus">Dept. of Pediatrics</span></h4>
           <div class="timeline-meta">Columbia University <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>R</span><span>Logistic Regression</span><span>Gradient Boosting</span><span>XGBoost</span></div>
+          <div class="timeline-skills"><span>R</span><span>PCA</span><span>Logistic Regression</span><span>Gradient Boosting</span><span>XGBoost</span></div>
           <ul class="timeline-bullets">
-            <li>Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data for deterioration modeling.</li>
-            <li>Engineered and validated age-specific hypotension features using AHA/PALS clinical thresholds.</li>
-            <li>Developed and evaluated statistical/ML models (logistic regression, penalized regression, gradient boosting, XGBoost); presented results to the pediatric study team.</li>
+            <li>Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data (blood pressure, labs, ICD codes, nursing flowsheets).</li>
+            <li>Derived and validated age- and weight-specific lower blood-pressure bounds beyond fixed AHA/PALS thresholds; engineered hypotension-burden measures (episode frequency, duration, severity) and evaluated sensitivity/PPV against nurse-documented adverse events.</li>
+            <li>Evaluated missingness, selection bias, and cohort coverage; applied stratified sampling, downsampling, PCA, regression, gradient boosting, and XGBoost, presenting findings to a multidisciplinary pediatric research team.</li>
           </ul>
         </div>
 
@@ -117,6 +117,7 @@ redirect_from:
         <span>Clinical Trial Reporting (TLFs)</span><span>Regulatory-Compliant Validation</span><span>Survival / Time-to-Event Analysis</span>
         <span>Mixed-Model Methods</span><span>Python</span><span>PyTorch</span><span>Tableau</span><span>Power BI</span>
         <span>AWS</span><span>Machine Learning</span><span>EDA</span><span>ETL</span><span>Excel</span>
+        <span>Geospatial (sf, r5r, GTFS)</span><span>Bayesian Spatial Models (INLA/SPDE)</span><span>Scanpy / AnnData</span>
       </div>
     </section>
 
