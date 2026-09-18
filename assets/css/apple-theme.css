@@ -88,6 +88,14 @@ body,
   color: var(--a-accent-hover);
   text-decoration: underline;
 }
+#awards a {
+  color: var(--a-text);
+  text-decoration: underline;
+}
+#awards a:hover {
+  color: var(--a-text);
+  opacity: 0.7;
+}
 
 /* Author sidebar */
 .author__name {
@@ -250,7 +258,7 @@ a.btn {
 .cv-sublist li {
   font-size: 12.5px;
   line-height: 1.55;
-  color: var(--a-text-secondary);
+  color: var(--a-text);
   margin-bottom: 4px;
 }
 .cv-card .timeline {

@@ -18,7 +18,8 @@ analyses, validate CDISC-structured (SDTM/ADaM) safety and efficacy datasets, an
 for regulatory submission.
 
 I'm comfortable across the full clinical programming stack (SAS, R, SQL, Python) as well as applied biostatistics —
-regression, categorical, time-to-event, and mixed-model methods.
+mixed-effects models, survival analysis, Kaplan–Meier estimation, Cox proportional hazards models, and repeated
+measures (MMRM).
 
 Most recently, I completed a six-month internship with the **United Nations** (Jan–Jul 2026), and I was appointed
 a **Data Science Scholar** through Columbia's [Data Science Institute](https://datascience.columbia.edu/research/programs/dsi-scholars/),
