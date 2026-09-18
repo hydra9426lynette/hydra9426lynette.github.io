@@ -34,38 +34,27 @@ redirect_from:
       <div class="timeline">
 
         <div class="timeline-item">
-          <div class="timeline-date">Jun 2023 – Feb 2024</div>
-          <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
-          <div class="timeline-meta">Clinpharma Clinical Research LLC <span class="dot">&middot;</span> Princeton, NJ</div>
-          <div class="timeline-skills"><span>SAS</span><span>R</span><span>Experimental Design</span><span>QA / Compliance Reporting</span></div>
+          <div class="timeline-date">Jan 2026 – Jul 2026</div>
+          <h4 class="timeline-role">Data Research Intern</h4>
+          <div class="timeline-meta">United Nations <span class="dot">&middot;</span> New York, NY</div>
+          <div class="timeline-skills"><span>Python</span><span>SQL Server</span><span>Power BI</span><span>Data Governance</span></div>
           <ul class="timeline-bullets">
-            <li>Applied advanced statistical methods in R and SAS to rigorously test pharmaceutical research hypotheses.</li>
-            <li>Conducted experimental design and advanced statistical analyses; R for simulation/modeling/visualization, SAS for regulatory-compliant reporting and validation.</li>
-            <li>Implemented a risk-based, flexible QA approach — R for statistical modeling/visualization, SAS for compliance reporting.</li>
+            <li>Consolidated five years of fragmented flight operational records into a centralized, SQL Server-backed metadata repository.</li>
+            <li>Migrated and reconciled two years of historical records via Python-based schema mapping, entity resolution, deduplication, and source-to-target validation.</li>
+            <li>Designed data dictionaries, naming standards, validation rules, and governance controls; built automated workflows to enforce them across intake and reporting.</li>
+            <li>Developed real-time Power BI dashboards for fleet availability, GPS tracking, utilization, and operational risk.</li>
           </ul>
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Feb 2024 – Aug 2024</div>
-          <h4 class="timeline-role">Statistical Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
-          <div class="timeline-meta">JN Data Resolution LLC <span class="dot">&middot;</span> Florham Park, NJ</div>
-          <div class="timeline-skills"><span>SAS</span><span>SAS Macros</span><span>CDISC/SDTM</span><span>R / R Shiny</span><span>SQL</span></div>
-          <ul class="timeline-bullets">
-            <li>Produced and peer-reviewed statistical analyses and visualizations with SAS, R, and SQL — regression, categorical, time-to-event, and mixed-model methods on safety and efficacy data.</li>
-            <li>Validated safety and efficacy datasets using SAS macros in CDISC structure; decided on analysis methods based on data structure and objectives.</li>
-            <li>Produced data visualizations using SAS and R/R Shiny; peer-reviewed programs coded by other programmers for data consistency.</li>
-          </ul>
-        </div>
-
-        <div class="timeline-item">
-          <div class="timeline-date">Jan 2025 – May 2025</div>
-          <h4 class="timeline-role">Research Intern</h4>
+          <div class="timeline-date">Sep 2025 – Present</div>
+          <h4 class="timeline-role">Data Science Research Scholar <span class="timeline-focus">Dept. of Pediatrics</span></h4>
           <div class="timeline-meta">Columbia University <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>R</span><span>Approximate Bayesian Computation</span><span>Random Forests</span><span>Bayesian Statistics</span></div>
+          <div class="timeline-skills"><span>R</span><span>PCA</span><span>Logistic Regression</span><span>Gradient Boosting</span><span>XGBoost</span></div>
           <ul class="timeline-bullets">
-            <li>Analyzed high-dimensional DNA-sequencing data in R — QC assessment, sequencing reads, genetic variation, structural changes.</li>
-            <li>Developed R-based simulations to evaluate statistical methods for interpreting genetic mechanisms and disease pathways.</li>
-            <li>Applied Approximate Bayesian Computation with random forests and sequential Monte Carlo methods to infer parameters and quantify uncertainty in high-dimensional genetic datasets.</li>
+            <li>Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data (blood pressure, labs, ICD codes, nursing flowsheets).</li>
+            <li>Derived and validated age- and weight-specific lower blood-pressure bounds beyond fixed AHA/PALS thresholds; engineered hypotension-burden measures (episode frequency, duration, severity) and evaluated sensitivity/PPV against nurse-documented adverse events.</li>
+            <li>Evaluated missingness, selection bias, and cohort coverage; applied stratified sampling, downsampling, PCA, regression, gradient boosting, and XGBoost, presenting findings to a multidisciplinary pediatric research team.</li>
           </ul>
         </div>
 
@@ -83,27 +72,38 @@ redirect_from:
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Sep 2025 – Present</div>
-          <h4 class="timeline-role">Data Science Research Scholar <span class="timeline-focus">Dept. of Pediatrics</span></h4>
+          <div class="timeline-date">Jan 2025 – May 2025</div>
+          <h4 class="timeline-role">Research Intern</h4>
           <div class="timeline-meta">Columbia University <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>R</span><span>PCA</span><span>Logistic Regression</span><span>Gradient Boosting</span><span>XGBoost</span></div>
+          <div class="timeline-skills"><span>R</span><span>Approximate Bayesian Computation</span><span>Random Forests</span><span>Bayesian Statistics</span></div>
           <ul class="timeline-bullets">
-            <li>Built an R-based pipeline to clean, transform, impute, and analyze high-frequency pediatric EHR data (blood pressure, labs, ICD codes, nursing flowsheets).</li>
-            <li>Derived and validated age- and weight-specific lower blood-pressure bounds beyond fixed AHA/PALS thresholds; engineered hypotension-burden measures (episode frequency, duration, severity) and evaluated sensitivity/PPV against nurse-documented adverse events.</li>
-            <li>Evaluated missingness, selection bias, and cohort coverage; applied stratified sampling, downsampling, PCA, regression, gradient boosting, and XGBoost, presenting findings to a multidisciplinary pediatric research team.</li>
+            <li>Analyzed high-dimensional DNA-sequencing data in R — QC assessment, sequencing reads, genetic variation, structural changes.</li>
+            <li>Developed R-based simulations to evaluate statistical methods for interpreting genetic mechanisms and disease pathways.</li>
+            <li>Applied Approximate Bayesian Computation with random forests and sequential Monte Carlo methods to infer parameters and quantify uncertainty in high-dimensional genetic datasets.</li>
           </ul>
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Jan 2026 – Jul 2026</div>
-          <h4 class="timeline-role">Data Research Intern</h4>
-          <div class="timeline-meta">United Nations <span class="dot">&middot;</span> New York, NY</div>
-          <div class="timeline-skills"><span>Python</span><span>SQL Server</span><span>Power BI</span><span>Data Governance</span></div>
+          <div class="timeline-date">Feb 2024 – Aug 2024</div>
+          <h4 class="timeline-role">Statistical Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
+          <div class="timeline-meta">JN Data Resolution LLC <span class="dot">&middot;</span> Florham Park, NJ</div>
+          <div class="timeline-skills"><span>SAS</span><span>SAS Macros</span><span>CDISC/SDTM</span><span>R / R Shiny</span><span>SQL</span></div>
           <ul class="timeline-bullets">
-            <li>Consolidated five years of fragmented flight operational records into a centralized, SQL Server-backed metadata repository.</li>
-            <li>Migrated and reconciled two years of historical records via Python-based schema mapping, entity resolution, deduplication, and source-to-target validation.</li>
-            <li>Designed data dictionaries, naming standards, validation rules, and governance controls; built automated workflows to enforce them across intake and reporting.</li>
-            <li>Developed real-time Power BI dashboards for fleet availability, GPS tracking, utilization, and operational risk.</li>
+            <li>Produced and peer-reviewed statistical analyses and visualizations with SAS, R, and SQL — regression, categorical, time-to-event, and mixed-model methods on safety and efficacy data.</li>
+            <li>Validated safety and efficacy datasets using SAS macros in CDISC structure; decided on analysis methods based on data structure and objectives.</li>
+            <li>Produced data visualizations using SAS and R/R Shiny; peer-reviewed programs coded by other programmers for data consistency.</li>
+          </ul>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Jun 2023 – Feb 2024</div>
+          <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
+          <div class="timeline-meta">Clinpharma Clinical Research LLC <span class="dot">&middot;</span> Princeton, NJ</div>
+          <div class="timeline-skills"><span>SAS</span><span>R</span><span>Experimental Design</span><span>QA / Compliance Reporting</span></div>
+          <ul class="timeline-bullets">
+            <li>Applied advanced statistical methods in R and SAS to rigorously test pharmaceutical research hypotheses.</li>
+            <li>Conducted experimental design and advanced statistical analyses; R for simulation/modeling/visualization, SAS for regulatory-compliant reporting and validation.</li>
+            <li>Implemented a risk-based, flexible QA approach — R for statistical modeling/visualization, SAS for compliance reporting.</li>
           </ul>
         </div>
 
@@ -112,12 +112,35 @@ redirect_from:
 
     <section id="skills" class="cv-card">
       <h2>Skills</h2>
-      <div class="skill-pills">
-        <span>SAS</span><span>CDISC (SDTM/ADaM)</span><span>SAS Macros</span><span>R / R Shiny</span><span>SQL / MySQL</span>
-        <span>Clinical Trial Reporting (TLFs)</span><span>Regulatory-Compliant Validation</span><span>Survival / Time-to-Event Analysis</span>
-        <span>Mixed-Model Methods</span><span>Python</span><span>PyTorch</span><span>Tableau</span><span>Power BI</span>
-        <span>AWS</span><span>Machine Learning</span><span>EDA</span><span>ETL</span><span>Excel</span>
-        <span>Geospatial (sf, r5r, GTFS)</span><span>Bayesian Spatial Models (INLA/SPDE)</span><span>Scanpy / AnnData</span>
+      <div class="skill-group">
+        <h3>R Programming</h3>
+        <div class="skill-pills">
+          <span>R</span><span>tidyverse</span><span>dplyr</span><span>tidyr</span><span>ggplot2</span><span>R Shiny</span>
+          <span>Statistical Modeling</span><span>Reproducible Reporting</span><span>Longitudinal Analysis</span><span>Survey-Weighted Analysis</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Analytics</h3>
+        <div class="skill-pills">
+          <span>Regression</span><span>Mixed-Effects Models</span><span>Survival Analysis</span><span>Kaplan–Meier</span>
+          <span>Cox Models</span><span>Repeated Measures</span><span>Censoring</span><span>Gradient Boosting</span>
+          <span>XGBoost</span><span>Model Validation</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Data &amp; Visualization</h3>
+        <div class="skill-pills">
+          <span>Python</span><span>Pandas</span><span>SQL / MySQL</span><span>SQL Server</span><span>ETL</span>
+          <span>Data Integration</span><span>EHR Data</span><span>Power BI</span><span>Power Query</span><span>DAX</span>
+          <span>Dashboard Development</span>
+        </div>
+      </div>
+      <div class="skill-group">
+        <h3>Clinical Data</h3>
+        <div class="skill-pills">
+          <span>CDISC SDTM/ADaM</span><span>TLFs</span><span>Pinnacle 21</span><span>QC/Validation</span>
+          <span>ICD-9/10</span><span>SAP Review</span><span>SAS</span><span>IRB</span><span>GCP/ICH-GCP</span><span>HIPAA</span>
+        </div>
       </div>
     </section>
 
