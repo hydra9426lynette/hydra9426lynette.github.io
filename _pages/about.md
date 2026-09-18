@@ -32,7 +32,8 @@ under [Dr. Khanh Dinh](https://dinhngockhanh.github.io/)'s lab — working with 
 reducing high-dimensional genetic data, and running PCA for cross-validation. That semester is what pulled me
 toward biostatistics and clinical work in the first place, and I'm listed as an alumni fellow on the
 [lab's people page](https://dinhngockhanh.github.io/people/). Fun fact: I later led my Data Science class's final
-project — a [spatial-transcriptomics analysis of human pancreas tissue](/portfolio/portfolio-5/).
+project — a [spatial-transcriptomics analysis of human pancreas tissue](/portfolio/portfolio-5/). It was where I
+started chasing what I actually value and find interesting — work I did purely because it brought me joy.
 
 My core focus and strongest background remains clinical trial / SAS programming.
 
