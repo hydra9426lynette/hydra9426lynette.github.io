@@ -380,6 +380,13 @@ a.btn {
   margin-left: 8px;
   vertical-align: middle;
 }
+.timeline-focus a {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.timeline-focus a:hover {
+  text-decoration: underline !important;
+}
 .timeline-meta {
   font-size: 14px;
   color: var(--a-text-secondary);
