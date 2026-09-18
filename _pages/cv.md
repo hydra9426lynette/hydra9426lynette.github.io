@@ -83,14 +83,36 @@ redirect_from:
         </div>
 
         <div class="timeline-item">
-          <div class="timeline-date">Jun 2023 – Feb 2024</div>
-          <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
+          <div class="timeline-date">Jun 2023 – Jan 2024</div>
+          <h4 class="timeline-role">Statistical Analyst <span class="timeline-focus">Clinical / CRO</span></h4>
           <div class="timeline-meta">Clinpharma Clinical Research LLC <span class="dot">&middot;</span> Princeton, NJ</div>
           <div class="timeline-skills"><span>SAS</span><span>Experimental Design</span></div>
           <ul class="timeline-bullets">
             <li>Applied advanced statistical methods in R and SAS to rigorously test pharmaceutical research hypotheses.</li>
             <li>Conducted experimental design and advanced statistical analyses; R for simulation/modeling/visualization, SAS for regulatory-compliant reporting and validation.</li>
             <li>Implemented a risk-based, flexible QA approach — R for statistical modeling/visualization, SAS for compliance reporting.</li>
+          </ul>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Feb 2023 – Jun 2023</div>
+          <h4 class="timeline-role">SAS Programmer <span class="timeline-focus">Clinical / CRO</span></h4>
+          <div class="timeline-meta">Yangtze River Consulting Service LLC <span class="dot">&middot;</span> Lawrence Township, NJ</div>
+          <div class="timeline-skills"><span>SAS</span><span>CDISC SDTM/ADaM</span><span>SAP Review</span></div>
+          <ul class="timeline-bullets">
+            <li>Reviewed SAPs and dataset specifications and translated study requirements into SAS programs supporting CDISC SDTM and ADaM dataset development.</li>
+            <li>Performed quality reviews, communicated specification and data issues to study-team partners, and resolved manipulation and reporting discrepancies before delivery.</li>
+          </ul>
+        </div>
+
+        <div class="timeline-item">
+          <div class="timeline-date">Aug 2022 – Feb 2023</div>
+          <h4 class="timeline-role">SAS Programmer Intern <span class="timeline-focus">Clinical / CRO</span></h4>
+          <div class="timeline-meta">Yangtze River Consulting Service LLC <span class="dot">&middot;</span> Lawrence Township, NJ</div>
+          <div class="timeline-skills"><span>SAS</span><span>Data Import/Merge</span><span>Ad-Hoc Reporting</span></div>
+          <ul class="timeline-bullets">
+            <li>Created new datasets from raw data files using import techniques and modified existing datasets using Set, Merge, Sort, Update, and conditional statements.</li>
+            <li>Generated ad-hoc reports including tables, listings, and graphs in HTML, RTF, and PDF for meetings and progress reports.</li>
           </ul>
         </div>
 
