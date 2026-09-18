@@ -124,9 +124,10 @@ redirect_from:
       <h2>Awards</h2>
       <ul class="cv-plain-list">
         <li>Top Finalist, <a href="https://www.enar.org/">ENAR</a> (a top biostatistics conference) —
-          <a href="https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm">2025 DataFest</a>,
-          machine learning research on hypertension using NHANES data, presented March 24, 2025 in New Orleans
-          with a team from NYU School of Global Public Health, mentored by
+          <a href="https://www.enar.org/meetings/spring2025/program/datafest_submission.cfm">2025 DataFest</a>:
+          <em>"The Interaction Effect Between Antihypertensive Medication and Depressive Symptoms on Uncontrolled
+          Hypertension Using Regression Survey Analysis and Random Forest Tree Approach,"</em> with Sarvar
+          Khamidov and Linqing Zheng, presented March 24, 2025 in New Orleans, mentored by
           <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang">Dr. Liangliang (Lyons) Zhang</a>.
           See the <a href="https://ma.stat.columbia.edu/2024/08/22/2024-joint-statistical-meetings-ma-student-experience/">Columbia Statistics Department announcement</a>.</li>
         <li>3rd Place, sponsored by NVIDIA &amp; Amazon — 2025 NSF LEAP "Harnessing Machine Learning to Improve
