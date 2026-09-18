@@ -129,10 +129,18 @@ redirect_from:
           <em>"The Interaction Effect Between Antihypertensive Medication and Depressive Symptoms on Uncontrolled
           Hypertension Using Regression Survey Analysis and Random Forest Tree Approach,"</em> with Sarvar
           Khamidov and Linqing Zheng, presented March 24, 2025 in New Orleans, mentored by
-          <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang">Dr. Liangliang (Lyons) Zhang</a>.
+          <a href="https://case.edu/medicine/pqhs/about/people/primary-faculty/liangliang-lyons-zhang">Dr. Liangliang (Lyons) Zhang</a>,
+          Assistant Professor of Population and Quantitative Health Sciences, Case Western Reserve University
+          School of Medicine, whose research applies Bayesian statistics to microbiome, single-cell, and spatial
+          omics data.
           See the <a href="https://ma.stat.columbia.edu/2024/08/22/2024-joint-statistical-meetings-ma-student-experience/">Columbia Statistics Department announcement</a>.</li>
-        <li>3rd Place, sponsored by NVIDIA &amp; Amazon — 2025 NSF LEAP "Harnessing Machine Learning to Improve
-          Subseasonal-to-Seasonal Climate Predictions" Hackathon</li>
+        <li>3rd Place, sponsored by NVIDIA &amp; Amazon —
+          <a href="https://leap.columbia.edu/knowledge-transfer/january-2025-hackathon/">2025 NSF LEAP Hackathon</a>,
+          "Harnessing Machine Learning to Improve Subseasonal-to-Seasonal Climate Predictions" (Columbia
+          University, Jan 15–16, 2025). Built ML approaches on the ChaosBench benchmarking dataset to test and
+          improve subseasonal-to-seasonal climate prediction skill, mentored by
+          <a href="https://www.linkedin.com/in/christina-last">Christina Last</a> (LEAP). See the
+          <a href="https://www.linkedin.com/posts/leapstc_hackathon-ml-leapkt-activity-7287562236670169088-xqx9">LEAP STC recap post</a>.</li>
       </ul>
     </section>
 
